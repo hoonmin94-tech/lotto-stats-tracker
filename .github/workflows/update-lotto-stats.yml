@@ -1,3 +1,4 @@
+# trigger reindex
 name: Update lotto stats
 
 on:
