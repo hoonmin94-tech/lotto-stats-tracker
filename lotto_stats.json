@@ -1,276 +1,276 @@
 {
-  "generated_at": "2026-08-16T01:20:13.018050+00:00",
-  "total_draws_analyzed": 1237,
+  "generated_at": "2026-08-23T01:21:36.604161+00:00",
+  "total_draws_analyzed": 1238,
   "numbers": [
     {
       "number": 1,
       "count": 170,
       "last_seen_draw": 1234,
-      "draws_since_last_seen": 3
+      "draws_since_last_seen": 4
     },
     {
       "number": 2,
-      "count": 155,
-      "last_seen_draw": 1233,
-      "draws_since_last_seen": 4
+      "count": 156,
+      "last_seen_draw": 1238,
+      "draws_since_last_seen": 0
     },
     {
       "number": 3,
       "count": 172,
       "last_seen_draw": 1230,
-      "draws_since_last_seen": 7
+      "draws_since_last_seen": 8
     },
     {
       "number": 4,
       "count": 162,
       "last_seen_draw": 1231,
-      "draws_since_last_seen": 6
+      "draws_since_last_seen": 7
     },
     {
       "number": 5,
       "count": 153,
       "last_seen_draw": 1213,
-      "draws_since_last_seen": 24
+      "draws_since_last_seen": 25
     },
     {
       "number": 6,
       "count": 166,
       "last_seen_draw": 1235,
-      "draws_since_last_seen": 2
+      "draws_since_last_seen": 3
     },
     {
       "number": 7,
       "count": 170,
       "last_seen_draw": 1235,
-      "draws_since_last_seen": 2
+      "draws_since_last_seen": 3
     },
     {
       "number": 8,
       "count": 158,
       "last_seen_draw": 1230,
-      "draws_since_last_seen": 7
+      "draws_since_last_seen": 8
     },
     {
       "number": 9,
       "count": 136,
       "last_seen_draw": 1230,
-      "draws_since_last_seen": 7
+      "draws_since_last_seen": 8
     },
     {
       "number": 10,
       "count": 162,
       "last_seen_draw": 1237,
-      "draws_since_last_seen": 0
+      "draws_since_last_seen": 1
     },
     {
       "number": 11,
       "count": 166,
       "last_seen_draw": 1235,
-      "draws_since_last_seen": 2
+      "draws_since_last_seen": 3
     },
     {
       "number": 12,
       "count": 180,
       "last_seen_draw": 1236,
-      "draws_since_last_seen": 1
+      "draws_since_last_seen": 2
     },
     {
       "number": 13,
-      "count": 179,
-      "last_seen_draw": 1231,
-      "draws_since_last_seen": 6
+      "count": 180,
+      "last_seen_draw": 1238,
+      "draws_since_last_seen": 0
     },
     {
       "number": 14,
       "count": 172,
       "last_seen_draw": 1231,
-      "draws_since_last_seen": 6
+      "draws_since_last_seen": 7
     },
     {
       "number": 15,
       "count": 170,
       "last_seen_draw": 1235,
-      "draws_since_last_seen": 2
+      "draws_since_last_seen": 3
     },
     {
       "number": 16,
       "count": 168,
       "last_seen_draw": 1227,
-      "draws_since_last_seen": 10
+      "draws_since_last_seen": 11
     },
     {
       "number": 17,
       "count": 171,
       "last_seen_draw": 1226,
-      "draws_since_last_seen": 11
+      "draws_since_last_seen": 12
     },
     {
       "number": 18,
-      "count": 177,
-      "last_seen_draw": 1236,
-      "draws_since_last_seen": 1
+      "count": 178,
+      "last_seen_draw": 1238,
+      "draws_since_last_seen": 0
     },
     {
       "number": 19,
       "count": 170,
       "last_seen_draw": 1234,
-      "draws_since_last_seen": 3
+      "draws_since_last_seen": 4
     },
     {
       "number": 20,
       "count": 171,
       "last_seen_draw": 1237,
-      "draws_since_last_seen": 0
+      "draws_since_last_seen": 1
     },
     {
       "number": 21,
       "count": 167,
       "last_seen_draw": 1236,
-      "draws_since_last_seen": 1
+      "draws_since_last_seen": 2
     },
     {
       "number": 22,
       "count": 145,
       "last_seen_draw": 1232,
-      "draws_since_last_seen": 5
+      "draws_since_last_seen": 6
     },
     {
       "number": 23,
       "count": 148,
       "last_seen_draw": 1237,
-      "draws_since_last_seen": 0
+      "draws_since_last_seen": 1
     },
     {
       "number": 24,
       "count": 166,
       "last_seen_draw": 1232,
-      "draws_since_last_seen": 5
+      "draws_since_last_seen": 6
     },
     {
       "number": 25,
       "count": 153,
       "last_seen_draw": 1233,
-      "draws_since_last_seen": 4
+      "draws_since_last_seen": 5
     },
     {
       "number": 26,
       "count": 165,
       "last_seen_draw": 1226,
-      "draws_since_last_seen": 11
+      "draws_since_last_seen": 12
     },
     {
       "number": 27,
       "count": 181,
       "last_seen_draw": 1224,
-      "draws_since_last_seen": 13
+      "draws_since_last_seen": 14
     },
     {
       "number": 28,
       "count": 157,
       "last_seen_draw": 1230,
-      "draws_since_last_seen": 7
+      "draws_since_last_seen": 8
     },
     {
       "number": 29,
       "count": 156,
       "last_seen_draw": 1236,
-      "draws_since_last_seen": 1
+      "draws_since_last_seen": 2
     },
     {
       "number": 30,
       "count": 158,
       "last_seen_draw": 1228,
-      "draws_since_last_seen": 9
+      "draws_since_last_seen": 10
     },
     {
       "number": 31,
       "count": 169,
       "last_seen_draw": 1234,
-      "draws_since_last_seen": 3
+      "draws_since_last_seen": 4
     },
     {
       "number": 32,
-      "count": 144,
-      "last_seen_draw": 1223,
-      "draws_since_last_seen": 14
+      "count": 145,
+      "last_seen_draw": 1238,
+      "draws_since_last_seen": 0
     },
     {
       "number": 33,
       "count": 174,
       "last_seen_draw": 1223,
-      "draws_since_last_seen": 14
+      "draws_since_last_seen": 15
     },
     {
       "number": 34,
       "count": 186,
       "last_seen_draw": 1237,
-      "draws_since_last_seen": 0
+      "draws_since_last_seen": 1
     },
     {
       "number": 35,
       "count": 163,
       "last_seen_draw": 1234,
-      "draws_since_last_seen": 3
+      "draws_since_last_seen": 4
     },
     {
       "number": 36,
       "count": 164,
       "last_seen_draw": 1232,
-      "draws_since_last_seen": 5
+      "draws_since_last_seen": 6
     },
     {
       "number": 37,
       "count": 174,
       "last_seen_draw": 1237,
-      "draws_since_last_seen": 0
+      "draws_since_last_seen": 1
     },
     {
       "number": 38,
-      "count": 171,
-      "last_seen_draw": 1236,
-      "draws_since_last_seen": 1
+      "count": 172,
+      "last_seen_draw": 1238,
+      "draws_since_last_seen": 0
     },
     {
       "number": 39,
       "count": 168,
       "last_seen_draw": 1235,
-      "draws_since_last_seen": 2
+      "draws_since_last_seen": 3
     },
     {
       "number": 40,
       "count": 174,
       "last_seen_draw": 1237,
-      "draws_since_last_seen": 0
+      "draws_since_last_seen": 1
     },
     {
       "number": 41,
       "count": 150,
       "last_seen_draw": 1227,
-      "draws_since_last_seen": 10
+      "draws_since_last_seen": 11
     },
     {
       "number": 42,
-      "count": 157,
-      "last_seen_draw": 1230,
-      "draws_since_last_seen": 7
+      "count": 158,
+      "last_seen_draw": 1238,
+      "draws_since_last_seen": 0
     },
     {
       "number": 43,
       "count": 165,
       "last_seen_draw": 1235,
-      "draws_since_last_seen": 2
+      "draws_since_last_seen": 3
     },
     {
       "number": 44,
       "count": 164,
       "last_seen_draw": 1228,
-      "draws_since_last_seen": 9
+      "draws_since_last_seen": 10
     },
     {
       "number": 45,
       "count": 175,
       "last_seen_draw": 1224,
-      "draws_since_last_seen": 13
+      "draws_since_last_seen": 14
     }
   ],
   "hot_numbers": [
